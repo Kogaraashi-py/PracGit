@@ -1,0 +1,3 @@
+en esta ocasion he praticado resolviendo problemas upstream,he creado ramas para solucionar errores
+en los archivos del espacio local para posteriormente agregarlo al area de preparacion y luego 
+a mi repostirio local para posteriormente hacer push al repositorio remoto
